@@ -70,7 +70,6 @@ public class KnapSack01 {
 
         return dp[n][W];
     }
-
     public static void main(String[] args) {
         // for recursion only
         /*

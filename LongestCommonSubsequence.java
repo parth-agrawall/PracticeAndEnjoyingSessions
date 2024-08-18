@@ -5,7 +5,7 @@ public class LongestCommonSubsequence {
         if(n==0 || m==0){
             return 0;
         }
-        if(str1.charAt(n-1) == str2.charAt(m-1)){
+        if(str1.  charAt(n-1) == str2.charAt(m-1)){
             return lcsRecur(str1,str2,n-1,m-1)+1;
         }else{
             int ans1 = lcsRecur(str1,str2,n-1,m);
