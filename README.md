@@ -5,3 +5,9 @@ This repository is for my own where I am enjoying myself while learning new conc
 - I uploaded some of my common dynamic programming solutions
 # Day-2
 - I am learning Longest Common Subsequence and will post questions based on that
+# Day-3
+- Worked on a research paper based on ARIMA
+# Day-4
+- Again the same routine, now I started feeling bad for leaving my DSA.
+# Day-5
+- Will do and continute Dynamic Programming questions based on LCS 😊
