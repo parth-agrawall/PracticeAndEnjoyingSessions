@@ -10,4 +10,4 @@ This repository is for my own where I am enjoying myself while learning new conc
 # Day-4
 - Again the same routine, now I started feeling bad for leaving my DSA.
 # Day-5
-- Will do and continute Dynamic Programming questions based on LCS 😊
+- Did one problem based on Arrays - Integer to English Conversion LeetCode solution and learned LCS
