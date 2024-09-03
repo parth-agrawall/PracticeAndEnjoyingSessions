@@ -5,7 +5,7 @@ public class LongestCommonSubsequence {
         if(n==0 || m==0){
             return 0;
         }
-        if(str1.  charAt(n-1) == str2.charAt(m-1)){
+        if(str1. charAt(n-1) == str2.charAt(m-1)){
             return lcsRecur(str1,str2,n-1,m-1)+1;
         }else{
             int ans1 = lcsRecur(str1,str2,n-1,m);
@@ -67,7 +67,7 @@ public class LongestCommonSubsequence {
         String str2 = "abedg";
         int[][] dp = new int[str1.length()+1][str2.length()+1];
         for(int i = 0; i<dp.length;i++){
-            for(int j = 0  ;j<dp[0].length;j++){
+            for(int j = 0 ;j<dp[0].length;j++){
                 dp[i][j] = -1;
             }
         }
