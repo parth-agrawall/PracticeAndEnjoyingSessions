@@ -18,5 +18,5 @@ This repository is for my own where I am enjoying myself while learning new conc
 # Day-7 to Day-17
 -  Had exams, seriously telling this phase of not doing anything was too bad, I really felt guilty for not practicing and leaving just like this.
 -  <b> Tip: Keep always practicing, never leave your flow just like this, if you do this, it will take time to come again on the same track. :) </b>
-# Day- 8
+# Day-18
 -  Learned and solved Dynamic Programming questions like Longest Increasing Subsequence and many more
