@@ -1,6 +1,8 @@
 package DynamicProgramming;
 
 public class MinOperationsReq {
+
+    // add, delete or replace
     public static int operationsToConvert(String original, String updated){
         int n = original.length();
         int m = updated.length();
@@ -31,7 +33,7 @@ public class MinOperationsReq {
         return dp[n][m];
     }
     public static void main(String[] args) {
-        System.out.println(operationsToConvert("abcd","aderw"));
+        System.out.println(operationsToConvert("parth","agrawal"));
     }
 
 }
