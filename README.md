@@ -19,4 +19,8 @@ This repository is for my own where I am enjoying myself while learning new conc
 -  Had exams, seriously telling this phase of not doing anything was too bad, I really felt guilty for not practicing and leaving just like this.
 -  <b> Tip: Keep always practicing, never leave your flow just like this, if you do this, it will take time to come again on the same track. :) </b>
 # Day-18
--  Learned and solved Dynamic Programming questions like Longest Increasing Subsequence and many more
+-  Learned and solved Dynamic Programming questions like Longest Increasing Subsequence and minimum operations required - theory
+
+# Day-19
+- Today I am continuing learning of Dynamic Programming Solutions and question is of minimum operations required- did code part today
+- As a part  of IEEE-Robotics and Automation Society, we are working on one event for which me and my team did cold mailing to sponsors seeking sponsorships. But seriously this is fun and it also lead to your convincing skills based on why they should sponsor you :D
